@@ -1,3 +1,1 @@
-<h1 align="center">
-  @config/prettier-config
-</h1>
+# @fe-config/prettier-config

@@ -1,5 +1,5 @@
 {
-    "name": "@config/prettier-config",
+    "name": "@fe-config/prettier-config",
     "version": "1.0.0",
     "private": true,
     "description": "Prettier config",
