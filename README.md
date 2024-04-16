@@ -1,2 +1,3 @@
-# f-config
-front project config
+# fe-config
+
+frontend project config

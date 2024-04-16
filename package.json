@@ -1,12 +1,11 @@
 {
-  "name": "f-config",
+  "name": "fe-config",
   "version": "1.0.0",
   "description": "Front project config",
-  "main": "index.js",
+  "keywords": ["config"],
+  "author": "Efe <https://github.com/gyf0601>",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
