@@ -1,14 +1,13 @@
 {
     "name": "@fe-config/prettier-config",
     "version": "1.0.0",
-    "private": true,
+    "author": "Efe <https://github.com/gyf0601>",
     "description": "Prettier config",
-    "main": "index.js",
+    "keywords": ["prettier", "config", "format"],
+    "license": "MIT",
+    "exports": { "import": "./index.js", "require": "./index.cjs" },
     "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": ["prettier", "config", "format"],
-    "author": "",
-    "license": "MIT"
+    }
 }

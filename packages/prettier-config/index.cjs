@@ -1,4 +1,4 @@
-export default {
+module.exports = {
     arrowParens: "avoid",
     bracketSpacing: true,
     endOfLine: "auto",
@@ -15,5 +15,5 @@ export default {
     tabWidth: 4,
     trailingComma: "all",
     useTabs: false,
-    vueIndentScriptAndStyle: false,
+    vueIndentScriptAndStyle: false
 };
